@@ -1,5 +1,16 @@
 # 🛋️ Lavanyaa Creation
+<p align="center">
 
+<a href="https://lavanyaacreation.in/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Live%20Website-Visit%20Lavanyaa%20Creation-C9A15B?style=for-the-badge" alt="Live Website">
+</a>
+
+</p>
+
+<p align="center">
+  <strong>🔗 Live Demo:</strong><br>
+  <a href="https://lavanyaacreation.in/">https://lavanyaacreation.in/</a>
+</p>
 > Premium Furniture & Interior Solutions Website built with PHP & MySQL.
 
 A modern, luxury furniture website developed for **Lavanyaa Creation**, featuring a premium dark UI, dynamic CMS, product catalogue, collections, inquiries, banners, and a complete admin panel for content management.
